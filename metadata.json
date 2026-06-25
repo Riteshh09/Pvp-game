@@ -1,0 +1,6 @@
+{
+  "name": "Aether PvP Arena",
+  "description": "A premium cyberpunk real-time PvP combat game with a global leaderboard, matchmaking, and Gemini-powered elite champions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
